@@ -21,13 +21,9 @@ A modern and beautiful **BMI Calculator** built with **Flutter**, featuring smoo
 
 | Home Screen | Input Values | BMI Result |
 |------------|-------------|------------|
-| ![Screenshot 1](screenshots/image1.png) | ![Screenshot 2](screenshots/image2.png) | ![Screenshot 3](screenshots/image3.png) |
+| ![Screenshot 1](screenshots/image1.png) | ![Screenshot 2](screenshots/image2.png) | ![Screenshot 3](screenshots/image3.png) | ![Screenshot 3](screenshots/image4.png)
 
-> 📌 **Note:**  
-> Create a folder named **`screenshots`** in your project root and place:
-> - `image1.png`
-> - `image2.png`
-> - `image3.png`
+
 
 ---
 
